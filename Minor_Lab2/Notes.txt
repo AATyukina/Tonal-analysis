@@ -1,0 +1,2 @@
+http://pymorphy2.readthedocs.io/en/0.8/user/guide.html --- –азбор слова по част€м речи
+http://qaru.site/questions/302/sort-a-python-dictionary-by-value --- сортировка словар€
